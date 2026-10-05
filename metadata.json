@@ -1,0 +1,8 @@
+{
+  "name": "Remix Zone Equipements MRO",
+  "description": "Plateforme industrielle et B2B de sourcing, d'équipements MRO et de gestion commerciale au Sénégal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
